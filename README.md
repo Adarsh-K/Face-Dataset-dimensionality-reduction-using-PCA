@@ -1,4 +1,4 @@
-# Here I've used PCA for dimensionality reduction of Face dataset. The code is in Matlab.
+# Here I've used PCA for dimensionality reduction of Face dataset. The code is in Matlab.(Facedataset.mat wasn't uploading)
 Note: All the files are well documented and commented wherever I felt necessary
 
 Run the file named FaceDatasetDRusingPCA.m which does the following:
